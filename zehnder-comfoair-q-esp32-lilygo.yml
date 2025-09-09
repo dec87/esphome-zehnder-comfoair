@@ -5,4 +5,4 @@ packages:
   device_base: !include boards/esp32-lilygo.yml
 
 dashboard_import:
-  package_import_url: github://yoziru/esphome-zehnder-comfoair/zehnder-comfoair-q-esp32-lilygo.dashboard.yml
+  package_import_url: github://dec87/esphome-zehnder-comfoair/zehnder-comfoair-q-esp32-lilygo.dashboard.yml
